@@ -1,1 +1,1 @@
-# sg-assign
+# assignment-simple-web
